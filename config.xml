@@ -19,7 +19,7 @@
     <preference name="APPCENTER_ANALYTICS_ENABLE_IN_JS" value="true" />
     <preference name="APPCENTER_CRASHES_ALWAYS_SEND" value="false" />
     <platform name="android">
-        <preference name="APP_SECRET" value="paste_android_app_secret_here" />
+        <preference name="APP_SECRET" value="afeb4520-65ae-4c51-87fb-a88a37c3ca29" />
         <preference name="FIREBASE_SENDER_ID" value="'paste_firebase_sender_id_here'" />
         <allow-intent href="market:*" />
     </platform>
